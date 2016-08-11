@@ -1,0 +1,24 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font: 12pt arial;
+    color: #d3d3d3;
+    background-color: #222222;
+}
+
+#skills {
+    width: 100%;
+    height: 100%;
+}
+
+#team-lead {
+    position: absolute;
+    display: inline-block;
+    z-index: 1000;
+    font-weight: bold;
+    box-sizing: content-box;
+    padding: 20px;
+}
